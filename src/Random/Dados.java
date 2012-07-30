@@ -16,11 +16,4 @@ public class Dados {
 		}
 		return resultados;
 	}
-		
-	public static void main(String[] args) {
-		System.out.println(tirarDado(6));
-		System.out.println(tirarDado(100));
-		System.out.println(tirarDados(5,10));
-		System.out.println(tirarDados(10,10));
-	}
 }
